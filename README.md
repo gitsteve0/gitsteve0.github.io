@@ -1,0 +1,2 @@
+# iPhoneX
+By: Batyr Muhammetnyyazow
