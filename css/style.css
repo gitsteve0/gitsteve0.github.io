@@ -1,0 +1,20 @@
+.text-gold{
+    color: rgb(249, 223, 162);
+}
+
+.pt-6{
+    padding-top: 10rem;
+}
+
+.bg-img-2{
+    background-image: url(../img/2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-img-3{
+    background-image: url(../img/6.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+}
